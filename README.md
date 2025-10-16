@@ -68,14 +68,7 @@ View notebooks
 
 Open `notebooks/1_Data_Exploration.ipynb` and `notebooks/2_Bayesian_Optimization.ipynb` in Jupyter.
 
-## Notes and recommendations
 
-- Large files: `models/*.joblib` and `notebooks/*.ipynb` are committed. If you'd prefer to keep the repository small, add these to `.gitignore` and remove them from history; I can help with that.
-- Authentication: You already pushed via HTTPS. If you'd like to switch to SSH, run:
-
-```bash
-git remote set-url origin git@github.com:baveshraam/Perovskite-Solar.git
-```
 
 - Contribution: Add a `CONTRIBUTING.md` and LICENSE if needed.
 
