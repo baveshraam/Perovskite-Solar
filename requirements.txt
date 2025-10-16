@@ -1,0 +1,30 @@
+# Perovskite Solar Cell Materials Discovery Project
+# Requirements for the refactored generative discovery system
+
+# Core scientific computing
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+
+# Machine learning
+scikit-learn>=1.1.0
+joblib>=1.1.0
+
+# Materials informatics (NEW - for rich feature generation)
+matminer>=0.8.0
+pymatgen>=2022.0.0
+
+# Bayesian optimization (UPDATED - for generative discovery)
+scikit-optimize>=0.9.0
+
+# Additional utilities
+warnings
+collections
+random
+
+# Optional: For enhanced visualization
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Note: Install with: pip install -r requirements.txt
