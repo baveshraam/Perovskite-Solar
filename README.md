@@ -85,8 +85,3 @@ Repository owner: baveshraam
 
 ---
 
-If you'd like, I can (pick one):
-
-- Add a `.gitignore` and remove large files from git history (interactive guide).
-- Add a minimal `requirements.txt` pinning versions (I see one already; I can update it).
-- Create a short `CONTRIBUTING.md` and `LICENSE`.
